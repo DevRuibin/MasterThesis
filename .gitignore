@@ -56,3 +56,6 @@ dkms.conf
 
 # VS Code
 .vscode/
+
+*.pdf
+.DS_Store
